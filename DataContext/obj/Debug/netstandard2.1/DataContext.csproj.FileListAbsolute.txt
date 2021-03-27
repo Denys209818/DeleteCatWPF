@@ -1,0 +1,12 @@
+C:\Users\Denis\Desktop\WPF HomeWork\DeleteCatElementWPF\DataContext\obj\Debug\netstandard2.1\DataContext.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\WPF HomeWork\DeleteCatElementWPF\DataContext\obj\Debug\netstandard2.1\DataContext.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\DeleteCatElementWPF\DataContext\obj\Debug\netstandard2.1\DataContext.AssemblyInfo.cs
+C:\Users\Denis\Desktop\WPF HomeWork\DeleteCatElementWPF\DataContext\obj\Debug\netstandard2.1\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\DeleteCatElementWPF\DataContext\bin\Debug\netstandard2.1\DataContext.deps.json
+C:\Users\Denis\Desktop\WPF HomeWork\DeleteCatElementWPF\DataContext\bin\Debug\netstandard2.1\DataContext.dll
+C:\Users\Denis\Desktop\WPF HomeWork\DeleteCatElementWPF\DataContext\bin\Debug\netstandard2.1\DataContext.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\DeleteCatElementWPF\DataContext\bin\Debug\netstandard2.1\DataContextEntities.dll
+C:\Users\Denis\Desktop\WPF HomeWork\DeleteCatElementWPF\DataContext\bin\Debug\netstandard2.1\DataContextEntities.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\DeleteCatElementWPF\DataContext\obj\Debug\netstandard2.1\DataContext.csproj.CopyComplete
+C:\Users\Denis\Desktop\WPF HomeWork\DeleteCatElementWPF\DataContext\obj\Debug\netstandard2.1\DataContext.dll
+C:\Users\Denis\Desktop\WPF HomeWork\DeleteCatElementWPF\DataContext\obj\Debug\netstandard2.1\DataContext.pdb

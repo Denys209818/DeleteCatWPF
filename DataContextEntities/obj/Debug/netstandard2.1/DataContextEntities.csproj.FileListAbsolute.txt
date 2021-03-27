@@ -1,0 +1,9 @@
+C:\Users\Denis\Desktop\WPF HomeWork\DeleteCatElementWPF\DataContextEntities\bin\Debug\netstandard2.1\DataContextEntities.deps.json
+C:\Users\Denis\Desktop\WPF HomeWork\DeleteCatElementWPF\DataContextEntities\bin\Debug\netstandard2.1\DataContextEntities.dll
+C:\Users\Denis\Desktop\WPF HomeWork\DeleteCatElementWPF\DataContextEntities\bin\Debug\netstandard2.1\DataContextEntities.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\DeleteCatElementWPF\DataContextEntities\obj\Debug\netstandard2.1\DataContextEntities.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\WPF HomeWork\DeleteCatElementWPF\DataContextEntities\obj\Debug\netstandard2.1\DataContextEntities.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\DeleteCatElementWPF\DataContextEntities\obj\Debug\netstandard2.1\DataContextEntities.AssemblyInfo.cs
+C:\Users\Denis\Desktop\WPF HomeWork\DeleteCatElementWPF\DataContextEntities\obj\Debug\netstandard2.1\DataContextEntities.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\DeleteCatElementWPF\DataContextEntities\obj\Debug\netstandard2.1\DataContextEntities.dll
+C:\Users\Denis\Desktop\WPF HomeWork\DeleteCatElementWPF\DataContextEntities\obj\Debug\netstandard2.1\DataContextEntities.pdb
